@@ -2,7 +2,7 @@
 
 Sistema desenvolvido para a Vaga de Desenvolvedor PHP.
 
-### iniciando o sistema
+# Iniciando o Sistema
 
 1 - Para executar a aplicação baixe e instale o Composer [Composer](https://getcomposer.org/);
 
