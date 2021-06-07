@@ -2,6 +2,7 @@
 
 
 @section('content')
+@yield('modal')
 
     <h1 class="text-center">Cadastro de Funcionarios Myra</h1>
 

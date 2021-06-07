@@ -15,10 +15,10 @@ class EmployeeRequest extends FormRequest
     public function rules()
     {
         return [
-            'name'=>'required',
-            'email'=>'required',
-            'office'=>'required',
-            'address'=>'required'
+            'name'=>'required|string',
+            'email'=>'required|email',
+            'office'=>'required|string',
+            'address'=>'required|string'
         ];
     }
 
@@ -29,6 +29,7 @@ class EmployeeRequest extends FormRequest
             'email.required' => 'Coloque o Email do Funcionário!',
             'office.required' => 'Coloque o Cargo do Funcionário!',
             'address.required' => 'Coloque o Endereço do Funcionário!',
+            'email.email' => 'Email invalido',
         ];
     }
 }
