@@ -1,8 +1,8 @@
-# Cadastro de funcionarios laravel
+# cadastro-funcionarios-laravel
 
 Sistema desenvolvido para a Vaga de Desenvolvedor PHP.
 
-# Iniciando o Sistema
+### iniciando o sistema
 
 1 - Para executar a aplicação baixe e instale o Composer [Composer](https://getcomposer.org/);
 
@@ -16,7 +16,7 @@ Sistema desenvolvido para a Vaga de Desenvolvedor PHP.
 
 6 - Na sequência execute o comando php artisan serve, para inicialização do servidor local;
 
-7 - Apos a inicialização abra o navegador na [http://localhost/](http://localhost:8000/);
+7 - Apos a inicialização abra o navegador na [http://localhost/employees](http://127.0.0.1:8000/employees);
 
 # Executando Testes
 
