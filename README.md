@@ -1,4 +1,4 @@
-# cadastro-funcionarios-laravel
+# Cadastro de funcionarios laravel
 
 Sistema desenvolvido para a Vaga de Desenvolvedor PHP.
 
